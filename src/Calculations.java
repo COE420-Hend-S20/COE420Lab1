@@ -8,6 +8,7 @@ public class Calculations {
 		//sum of x and y 
 		int sum = x+y;
 		System.out.println("The sum is= "+ sum);
+		System.out.println("The sum-- is= "+ sum);
 		
 		//member_B add the feature of subtracting x from y and print the result
 		
